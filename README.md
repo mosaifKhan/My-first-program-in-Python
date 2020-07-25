@@ -21,13 +21,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 >>> 
 >>> 
 >>> print ('musaib')
-musaib
->>>  pint ("Mosaif's Laptop")
- 
-SyntaxError: unexpected indent
->>> print ("Mosaif's Laptop)
-       
-SyntaxError: EOL while scanning string literal
+musaib 
 >>> print ("Mosaif's Laptop")
 Mosaif's Laptop
 >>> print ('Mosaif "Laptop"')
